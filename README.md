@@ -52,3 +52,13 @@ Clone the repository and install dependencies:
 git clone https://github.com/yourusername/speaker-recognition-ecapa.git
 cd speaker-recognition-ecapa
 pip install -r requirements.txt
+
+
+## Results
+| Metric       | Value  |
+|--------------|--------|
+| EER (%)      | 2.52%  |
+| MinDCF       | 0.269  |
+
+Model achieves competitive performance compared to state-of-the-art.
+
