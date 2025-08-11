@@ -12,7 +12,7 @@ Applications include authentication systems, voice-based security, and speaker d
 
 
 ## Dataset
-We use the [VoxCeleb1](http://www.robots.ox.ac.uk/~vgg/data/voxceleb/) dataset:
+[VoxCeleb1](http://www.robots.ox.ac.uk/~vgg/data/voxceleb/) dataset:
 - 1,251 speakers
 - Over 100,000 utterances
 - Audio collected from YouTube interviews
@@ -33,14 +33,6 @@ Key features:
 - Aggregation layers for robust embeddings
 - Trained with Additive Margin Softmax loss
 
-Implementation is based on [SpeechBrain's ECAPA-TDNN recipe](https://speechbrain.github.io/recipes/VoxCeleb/SpeakerRec.html).
-
-
-## Installation
-Clone the repository and install dependencies:
-git clone https://github.com/yourusername/speaker-recognition-ecapa.git
-cd speaker-recognition-ecapa
-pip install -r requirements.txt
 
 
 ## Results
