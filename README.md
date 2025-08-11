@@ -2,6 +2,8 @@
 
 A deep learning project for speaker recognition using the [SpeechBrain](https://speechbrain.github.io/) toolkit and the [VoxCeleb1](http://www.robots.ox.ac.uk/~vgg/data/voxceleb/) dataset. The model is based on the ECAPA-TDNN architecture for state-of-the-art performance in speaker verification tasks.
 
+
+
 ## Table of Contents
 - [Overview](#overview)
 - [Dataset](#dataset)
@@ -47,8 +49,6 @@ Implementation is based on [SpeechBrain's ECAPA-TDNN recipe](https://speechbrain
 
 ## Installation
 Clone the repository and install dependencies:
-
-```bash
 git clone https://github.com/yourusername/speaker-recognition-ecapa.git
 cd speaker-recognition-ecapa
 pip install -r requirements.txt
@@ -61,4 +61,8 @@ pip install -r requirements.txt
 | MinDCF       | 0.269  |
 
 Model achieves competitive performance compared to state-of-the-art.
+
+## References
+- ECAPA-TDNN.ppt shows about the result and alos explain about the code sections
+- https://arxiv.org/pdf/2005.07143 (ECAPA-TDNN reference paper)
 
