@@ -4,17 +4,6 @@ A deep learning project for speaker recognition using the [SpeechBrain](https://
 
 
 
-## Table of Contents
-- [Overview](#overview)
-- [Dataset](#dataset)
-- [Model](#model)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Results](#results)
-- [References](#references)
-
-
-
 ## Overview
 This project implements a **speaker recognition system** using the **ECAPA-TDNN** architecture from the SpeechBrain toolkit.  
 It uses the VoxCeleb1 dataset for training and evaluation.  
