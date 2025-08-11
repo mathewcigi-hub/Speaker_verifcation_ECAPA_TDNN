@@ -26,7 +26,7 @@ Applications include authentication systems, voice-based security, and speaker d
 
 ## Model
 The **ECAPA-TDNN** (Emphasized Channel Attention, Propagation and Aggregation Time Delay Neural Network) is designed for speaker embedding extraction.
-<img width="610" height="821" alt="image" src="https://github.com/user-attachments/assets/5df6a879-272c-49e7-8c5d-183b1e55101f" />
+<img width="400" height="650" alt="image" src="https://github.com/user-attachments/assets/5df6a879-272c-49e7-8c5d-183b1e55101f" />
 
 Key features:
 - **Squeeze-Excitation blocks** for channel attention
