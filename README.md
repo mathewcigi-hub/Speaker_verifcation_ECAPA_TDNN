@@ -44,6 +44,6 @@ Key features:
 Model achieves competitive performance compared to state-of-the-art.
 
 ## References
-- ECAPA-TDNN.ppt shows about the result and alos explain about the code sections
+- ECAPA-TDNN.ppt shows about the result and also explain about the code sections
 - https://arxiv.org/pdf/2005.07143 (ECAPA-TDNN reference paper)
 
